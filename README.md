@@ -33,48 +33,27 @@
 13. Click **+ New policy**.
 14. In the Name field type **Expensify location policy**.
 15. In the **Assignments** section, click **Users and groups**.
-    
-    16. Click **Select users and groups**, and then click **Users and
+16. Click **Select users and groups**, and then click **Users and
     groups**.
-    
-    17. Click **Select**.
-    
-    18. In the search box, type **sg** and press **Enter**.
-    
-    19. Click on **sg-Sales and Marketing**.
-    
-    20. Click **Select**.
-    
-    21. Click **Done**.
-    
-    22. In the **Assignments** section, click **Conditions**.
-    
-    23. On the **Conditions** blade, Click **Locations**.
-    
-    24. Set Configure to **Yes**.
-    
-    25. Under **Include**, ensure that **Any location** is selected.
-    
-   26. Click **Exclude**.
-    
-    27. Check **All trusted locations**.
-    
-   28. At the bottom of the **Locations** blade, click **Done**.
-    
-    29. At the bottom of the **Conditions** blade, click **Done**.
-    
-    30. In the **Access controls** section, click **Grant**.
-    
-   31. Select **Block access**.
-    
-    32. Click **Select**.
-    
-   33. Set Enable policy to **On**.
-    
-    34. Click **Create**.
-    
-   35. In the top right corner of the portal, click
-    **admin@M365x723661.onmicrosoft.com**.
-    
-  36. Click Sign out.
+17. Click **Select**.
+18. In the search box, type **sg** and press **Enter**.
+19. Click on **sg-Sales and Marketing**.
+20. Click **Select**.
+21. Click **Done**.
+22. In the **Assignments** section, click **Conditions**.
+23. On the **Conditions** blade, Click **Locations**.
+24. Set Configure to **Yes**.
+25. Under **Include**, ensure that **Any location** is selected.
+26. Click **Exclude**.
+27. Check **All trusted locations**.
+28. At the bottom of the **Locations** blade, click **Done**.
+29. At the bottom of the **Conditions** blade, click **Done**.
+30. In the **Access controls** section, click **Grant**.
+31. Select **Block access**.
+32. Click **Select**.
+33. Set Enable policy to **On**.
+34. Click **Create**.
+35. In the top right corner of the portal, click **admin@M365x723661.onmicrosoft.com**.
+36. Click Sign out.
+
 
