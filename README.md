@@ -59,18 +59,18 @@
 
 **Access resources from untrusted location**
 
- 41. Browse to [https://myapps.microsoft.com](https://myapps.microsoft.com).
+1. Browse to [https://myapps.microsoft.com](https://myapps.microsoft.com).
 
- 42. Click **Use another account**.
+2. Click **Use another account**.
 
- 43. Sign in as **meganb@M365x723661.onmicrosoft.com** with the tenant password.
+3. Sign in as **meganb@M365x723661.onmicrosoft.com** with the tenant password.
 
- 44. Click on the **Expensify** tile.
+4. Click on the **Expensify** tile.
 
- 45. On the **You cannot access this right now** message, click **More details**.
+5. On the **You cannot access this right now** message, click **More details**.
 
 Note the message notifying you are unable to access the content right now and it was triggered by conditional access.
 
- 1. Close the Sign in to your account tab.
- 2. In the top right corner of the portal, click [meganb@M365x723661.onmicrosoft.com](mailto:isaiahl@%3ctenant%3e.onmicrosoft.com).
- 3. Click **Sign out**.
+6. Close the Sign in to your account tab.
+7. In the top right corner of the portal, click [meganb@M365x723661.onmicrosoft.com](mailto:isaiahl@%3ctenant%3e.onmicrosoft.com).
+8. Click **Sign out**.
