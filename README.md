@@ -13,15 +13,15 @@
 
 **Configuring location-based conditional access**
 
- 1. In the left-hand navigation, click **Azure Active Directory**.
+ 5. In the left-hand navigation, click **Azure Active Directory**.
     
-   2. Under **Security**, click **Conditional access**.
+ 6. Under **Security**, click **Conditional access**.
     
-    3. In the **Manage** section, click **Named locations**.
+ 7. In the **Manage** section, click **Named locations**.
     
-    4. Click **Configure MFA trusted IPs**.
+ 8. Click **Configure MFA trusted IPs**.
     
-    5. In the **trusted ips** text box enter the following IP addresses:  
+9. In the **trusted ips** text box enter the following IP addresses:  
     192.168.1.0/24  
     192.168.2.0/24  
     192.168.3.0/24
