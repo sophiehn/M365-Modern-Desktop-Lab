@@ -13,40 +13,26 @@
 
 **Configuring location-based conditional access**
 
- 5. In the left-hand navigation, click **Azure Active Directory**.
-    
- 6. Under **Security**, click **Conditional access**.
-    
- 7. In the **Manage** section, click **Named locations**.
-    
- 8. Click **Configure MFA trusted IPs**.
-    
-9. In the **trusted ips** text box enter the following IP addresses:  
+1.  In the left-hand navigation, click **Azure Active Directory**.
+2. Under **Security**, click **Conditional access**.
+3. In the **Manage** section, click **Named locations**.
+4. Click **Configure MFA trusted IPs**.
+5. In the **trusted ips** text box enter the following IP addresses:  
     192.168.1.0/24  
     192.168.2.0/24  
     192.168.3.0/24
-    
-   6. Click **Save**.
-    
-   7. Click **Close**.
-    
-    8. Close the Multi-factor authentication browser tab.
-    
-    9. Click **X** to close the **Conditional access – Named locations**
+6. Click **Save**.
+7. Click **Close**.
+8. Close the Multi-factor authentication browser tab.
+9. Click **X** to close the **Conditional access – Named locations**
     blade.
-    
-   10.  Click **Enterprise applications**, and then click **All
+10.  Click **Enterprise applications**, and then click **All
     applications**.
-    
-   11.  In the Enterprise application list, click **Expensify**.
-    
-    12. Under **Security**, click **Conditional access**.
-    
-    13. Click **+ New policy**.
-    
-    14. In the Name field type **Expensify location policy**.
-    
-  15. In the **Assignments** section, click **Users and groups**.
+11.  In the Enterprise application list, click **Expensify**.
+12. Under **Security**, click **Conditional access**.
+13. Click **+ New policy**.
+14. In the Name field type **Expensify location policy**.
+15. In the **Assignments** section, click **Users and groups**.
     
     16. Click **Select users and groups**, and then click **Users and
     groups**.
