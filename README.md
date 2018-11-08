@@ -9,6 +9,7 @@
 
 ## M365 Admin Centers
 
-* [Microsoft 365 Admin Portal](https://admin.microsoft.com)
+* [Microsoft 365 Admin Center](https://admin.microsoft.com)
+* [Microsoft Azure Portal](https://portal.azure.com)
 * [Device Management Portal](https://devicemanagement.microsoft.com)
 * [Microsoft Store for Business](https://businessstore.microsoft.com/)
