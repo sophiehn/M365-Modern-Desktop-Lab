@@ -1,0 +1,13 @@
+ Shift+F10 to open cmd
+ run the following commands directly (or open task manager with command taskmgr):
+ 
+ hostname 
+ powershell
+ Install-Script -Name Get-WindowsAutoPilotInfo
+ Set-ExecutionPolicy unrestricted
+ cd "C:\Program Files\WindowsPowerShell\Scripts\"
+ .\Get-WindowsAutoPilotInfo.ps1 -ComputerName DESKTOP-4FJ9BD -OutputFile .\DeviceID.csv
+
+cd "C:\Program Files\Internet Explorer\"
+iexplore.exe (.\iexplore.exe if on PS mode)
+
