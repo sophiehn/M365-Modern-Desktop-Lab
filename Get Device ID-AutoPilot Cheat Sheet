@@ -6,8 +6,8 @@
  Install-Script -Name Get-WindowsAutoPilotInfo
  Set-ExecutionPolicy unrestricted
  cd "C:\Program Files\WindowsPowerShell\Scripts\"
- .\Get-WindowsAutoPilotInfo.ps1 -ComputerName DESKTOP-4FJ9BD -OutputFile .\DeviceID.csv
+ .\Get-WindowsAutoPilotInfo.ps1 -ComputerName <hostname> -OutputFile .\DeviceID.csv
 
 cd "C:\Program Files\Internet Explorer\"
-iexplore.exe (.\iexplore.exe if on PS mode)
+iexplore.exe (.\iexplore.exe if on PS mode) and send the file via email if not possible to copy the file
 
